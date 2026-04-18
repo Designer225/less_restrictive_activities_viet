@@ -4,5 +4,5 @@ tags={
 	"Events"
 	"Gameplay"
 }
-name="Less Age-Restrictive Activities - VIET Addon"
+name="Less Restrictive Activities - VIET Addon"
 supported_version="1.18.4"
