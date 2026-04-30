@@ -1,8 +1,8 @@
-version="0.1.0"
+version="1.0.0"
 tags={
-	"1.18 'Crane'"
+	"1.19 'Scribe'"
 	"Events"
 	"Gameplay"
 }
 name="Less Restrictive Activities - VIET Addon"
-supported_version="1.18.4"
+supported_version="1.19.*"
