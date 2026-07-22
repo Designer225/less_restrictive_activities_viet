@@ -1,0 +1,5 @@
+﻿
+activity_cooldown_3650_days = {
+	value = 3650
+	multiply = activity_cooldown_mult
+}

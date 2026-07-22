@@ -205,7 +205,7 @@
 			multiply = 5
 		}
 	}
-	cooldown = { days = 3650 }
+	cooldown = { days = activity_cooldown_3650_days }
 	
 	###################
 	# ACTIVITY-SPECIFIC PULSES
